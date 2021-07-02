@@ -1,1 +1,1 @@
-This is a spring boot application of library management system.
+It's a springboot project for Group Chatting application .
